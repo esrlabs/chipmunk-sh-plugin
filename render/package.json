@@ -1,8 +1,8 @@
 {
-  "name": "processes",
-  "version": "1.0.2",
+  "name": "chipmunk-sh-plugin",
+  "version": "1.0.3",
   "peerDependencies": {
-    "@angular/common": "^7.0.0",
-    "@angular/core": "^7.0.0"
+    "@angular/common": "^9.0.6",
+    "@angular/core": "^9.0.6"
   }
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/processes",
+  "dest": "../../dist/chipmunk-sh-plugin",
   "lib": {
     "entryFile": "src/public_api.ts"
   }
